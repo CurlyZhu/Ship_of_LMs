@@ -1,6 +1,6 @@
-# Implicit Paradigm Shifts and the Ship of LMs
+# Implicit Paradigm Shifts and the Ship of Language Models
 
-This repo presents the code for the analysis in [*What We Talk about When We Talk about LMs: Implicit Paradigm Shifts and the Ship of LMs*](https://arxiv.org/abs/2407.01929) (To appear at NAACL 2025).
+This repo presents the code for the analysis in [*What We Talk about When We Talk about LMs: Implicit Paradigm Shifts and the Ship of Language Models*](https://arxiv.org/abs/2407.01929) (To appear at NAACL 2025).
 
 > **Abstract**: The term Language Models (LMs) as a time-specific collection of models of interest is constantly reinvented, with its referents updated much like the *Ship of Theseus* replaces its parts but remains the same ship in essence.
 In this paper, we investigate this *Ship of Language Models* problem, wherein scientific evolution takes the form of continuous, implicit retrofits of key *existing* terms. We seek to initiate a novel perspective of scientific progress, in addition to the more well-studied emergence of *new* terms.
