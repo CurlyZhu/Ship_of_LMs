@@ -1,0 +1,1023 @@
+{
+    "ChatGPT": {
+        "alias": [
+            "ChatGPT",
+            "Chat-GPT",
+            "chat-GPT"
+        ],
+        "variations": [
+            "ChatGPT-3.5"
+        ],
+        "dep": "GPT-3.5",
+        "ref": "https://openai.com/index/chatgpt/"
+    },
+    "GPT-3": {
+        "alias": [
+            "GPT-3",
+            "GPT3",
+            "text-davinci-003",
+            "code-davinci-002"
+        ],
+        "variations": [
+            "GPT-3 Davinci"
+        ],
+        "dep": "GPT",
+        "ref": "https://arxiv.org/abs/2005.14165"
+    },
+    "GPT-4": {
+        "alias": [
+            "GPT-4"
+        ],
+        "variations": [
+        ],
+        "dep": "GPT-3.5",
+        "ref": "https://platform.openai.com/docs/models/overview"
+    },
+    "BERT": {
+        "alias": [
+            "BERT",
+            "Bert",
+            "bert-base-cased"
+        ],
+        "variations": [
+            "BERTScore",
+            "BERT-base",
+            "BERT base",
+            "BERT-large"
+        ],
+        "dep": "BERT",
+        "ref": "https://arxiv.org/abs/1810.04805v2"
+    },
+    "T5": {
+        "alias": [
+            "T5"
+        ],
+        "variations": [
+            "T5-base",
+            "T5-11B",
+            "T5-XXL"
+        ],
+        "dep": "T5",
+        "ref": "https://arxiv.org/abs/1910.10683"
+    },
+    "GPT-3.5": {
+        "alias": [
+            "GPT-3.5",
+            "gpt-3.5-turbo",
+            "GPT3.5",
+            "gpt-35-turbo"
+        ],
+        "variations": [
+            "GPT-3.5-turbo"
+        ],
+        "dep": "GPT-3",
+        "ref": "https://en.wikipedia.org/wiki/GPT-3#GPT-3.5"
+    },
+    "GPT-2": {
+        "alias": [
+            "GPT-2",
+            "GPT2",
+            "GTP-2"
+        ],
+        "variations": [
+            "GPT2-XL"
+        ],
+        "dep": "GPT",
+        "ref": "https://github.com/openai/gpt-2"
+    },
+    "LLaMA": {
+        "alias": [
+            "LLaMA",
+            "LlaMA",
+            "Llama",
+            "LLaMa"
+        ],
+        "variations": [
+            "LLaMA-13B",
+            "Llama-2"
+        ],
+        "dep": "LLaMA",
+        "ref": "https://github.com/facebookresearch/llama"
+    },
+    "RoBERTa": {
+        "alias": [
+            "RoBERTa",
+            "Roberta",
+            "roberta-base"
+        ],
+        "variations": [
+            "RoBERTa-large",
+            "RoBERTa-Large"
+        ],
+        "dep": "BERT",
+        "ref": "https://arxiv.org/abs/1907.11692"
+    },
+    "PaLM": {
+        "alias": [
+            "PaLM"
+        ],
+        "variations": [
+        ],
+        "dep": "PaLM",
+        "ref": "https://blog.research.google/2022/04/pathways-language-model-palm-scaling-to.html"
+    },
+    "CLIP": {
+        "alias": [
+            "CLIP"
+        ],
+        "variations": [
+            "CLIPScore"
+        ],
+        "dep": "CLIP",
+        "ref": "https://github.com/openai/CLIP"
+    },
+    "BART": {
+        "alias": [
+            "BART"
+        ],
+        "variations": [
+            "BARTScore",
+            "BART-large"
+        ],
+        "dep": "BART",
+        "ref": "https://huggingface.co/docs/transformers/en/model_doc/bart"
+    },
+    "XLM-R": {
+        "alias": [
+            "XLM-R",
+            "XLM-RoBERTa"
+        ],
+        "variations": [
+            "XLM-R-large"
+        ],
+        "dep": "RoBERTa",
+        "ref": "https://huggingface.co/docs/transformers/model_doc/xlm-roberta"
+    },
+    "Alpaca": {
+        "alias": [
+            "Alpaca"
+        ],
+        "variations": [
+        ],
+        "dep": "LLaMA",
+        "ref": "https://crfm.stanford.edu/2023/03/13/alpaca.html"
+    },
+    "BLOOM": {
+        "alias": [
+            "BLOOM"
+        ],
+        "variations": [
+        ],
+        "dep": "BLOOM",
+        "ref": "https://bigscience.huggingface.co/blog/bloom"
+    },
+    "mT5": {
+        "alias": [
+            "mT5",
+            "multilingual T5"
+        ],
+        "variations": [
+        ],
+        "dep": "T5",
+        "ref": "https://huggingface.co/docs/transformers/en/model_doc/mt5"
+    },
+    "InstructGPT": {
+        "alias": [
+            "InstructGPT"
+        ],
+        "variations": [
+        ],
+        "dep": "GPT-3",
+        "ref": "https://openai.com/research/instruction-following"
+    },
+    "mBERT": {
+        "alias": [
+            "mBERT",
+            "M-BERT",
+            "multilingual BERT"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://github.com/google-research/bert"
+    },
+    "GPT-J": {
+        "alias": [
+            "GPT-J"
+        ],
+        "variations": [
+        ],
+        "dep": "GPT-J",
+        "ref": "https://huggingface.co/docs/transformers/en/model_doc/gptj"
+    },
+    "Flan-T5": {
+        "alias": [
+            "Flan-T5",
+            "FLAN-T5"
+        ],
+        "variations": [
+        ],
+        "dep": "T5",
+        "ref": "https://huggingface.co/docs/transformers/model_doc/flan-t5"
+    },
+    "OPT": {
+        "alias": [
+            "OPT"
+        ],
+        "variations": [
+            "OPT-66B",
+            "OPT-175B"
+        ],
+        "dep": "OPT",
+        "ref": "https://huggingface.co/docs/transformers/model_doc/opt"
+    },
+    "Codex": {
+        "alias": [
+            "Codex",
+            "codex"
+        ],
+        "variations": [
+        ],
+        "dep": "GPT-3",
+        "ref": "https://openai.com/blog/openai-codex"
+    },
+    "COMET": {
+        "alias": [
+            "COMET"
+        ],
+        "variations": [
+        ],
+        "dep": "COMET",
+        "ref": "https://aclanthology.org/P19-1470"
+    },
+    "ELECTRA": {
+        "alias": [
+            "ELECTRA",
+            "Electra"
+        ],
+        "variations": [
+        ],
+        "dep": "ELECTRA",
+        "ref": "https://huggingface.co/docs/transformers/model_doc/electra"
+    },
+    "Longformer": {
+        "alias": [
+            "Longformer"
+        ],
+        "variations": [
+        ],
+        "dep": "RoBERTa",
+        "ref": "https://huggingface.co/docs/transformers/en/model_doc/longformer"
+    },
+    "mBART": {
+        "alias": [
+            "mBART"
+        ],
+        "variations": [
+            "mBART-50"
+        ],
+        "dep": "BART",
+        "ref": "https://arxiv.org/abs/2001.08210"
+    },
+    "SimCSE": {
+        "alias": [
+            "SimCSE"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://arxiv.org/abs/2104.08821"
+    },
+    "BLOOMZ": {
+        "alias": [
+            "BLOOMZ"
+        ],
+        "variations": [
+        ],
+        "dep": "BLOOM",
+        "ref": "https://huggingface.co/bigscience/bloomz"
+    },
+    "BigBird": {
+        "alias": [
+            "BigBird",
+            "Big Bird"
+        ],
+        "variations": [
+        ],
+        "dep": "BigBird",
+        "ref": "https://huggingface.co/docs/transformers/en/model_doc/big_bird"
+    },
+    "BLIP": {
+        "alias": [
+            "BLIP"
+        ],
+        "variations": [
+        ],
+        "dep": "BLIP",
+        "ref": "https://huggingface.co/docs/transformers/en/model_doc/blip"
+    },
+    "DeBERTa": {
+        "alias": [
+            "DeBERTa"
+        ],
+        "variations": [
+            "DeBERTaV3",
+            "DeBERTaV2",
+            "DeBERTaV1"
+        ],
+        "dep": "RoBERTa",
+        "ref": "https://huggingface.co/docs/transformers/en/model_doc/deberta"
+    },
+    "CodeT5": {
+        "alias": [
+            "CodeT5"
+        ],
+        "variations": [
+        ],
+        "dep": "T5",
+        "ref": "https://github.com/salesforce/CodeT5"
+    },
+    "Switch Transformer": {
+        "alias": [
+            "Switch Transformer"
+        ],
+        "variations": [
+        ],
+        "dep": "T5",
+        "ref": "https://huggingface.co/docs/transformers/model_doc/switch_transformers"
+    },
+    "Vicuna": {
+        "alias": [
+            "Vicuna",
+            "VICUNA"
+        ],
+        "variations": [
+        ],
+        "dep": "LLaMA",
+        "ref": "https://lmsys.org/blog/2023-03-30-vicuna/"
+    },
+    "T0": {
+        "alias": [
+            "T0"
+        ],
+        "variations": [
+            "T0-11B"
+        ],
+        "dep": "T5",
+        "ref": "https://huggingface.co/bigscience/T0"
+    },
+    "PEGASUS": {
+        "alias": [
+            "PEGASUS",
+            "Pegasus"
+        ],
+        "variations": [
+        ],
+        "dep": "PEGASUS",
+        "ref": "https://huggingface.co/docs/transformers/model_doc/pegasus"
+    },
+    "LSTM": {
+        "alias": [
+            "LSTM",
+            "lstm"
+        ],
+        "variations": [
+            "LSTMs",
+            "BiLSTM",
+            "BiLSTMs"
+        ],
+        "dep": "RNN",
+        "ref": ""
+    },
+    "ALBERT": {
+        "alias": [
+            "ALBERT"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://huggingface.co/docs/transformers/en/model_doc/albert"
+    },
+    "DPR": {
+        "alias": [
+            "DPR",
+            "Dense Passage Retriever",
+            "Dense Retriever"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://huggingface.co/docs/transformers/en/model_doc/dpr"
+    },
+    "Macaw": {
+        "alias": [
+            "Macaw"
+        ],
+        "variations": [
+        ],
+        "dep": "T5",
+        "ref": "https://macaw.apps.allenai.org/about"
+    },
+    "LXMERT": {
+        "alias": [
+            "LXMERT"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://huggingface.co/docs/transformers/en/model_doc/lxmert"
+    },
+    "SpanBERT": {
+        "alias": [
+            "SpanBERT"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://aclanthology.org/2020.tacl-1.5/"
+    },
+    "TinyBERT": {
+        "alias": [
+            "TinyBERT"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://arxiv.org/abs/1909.10351"
+    },
+    "ViLBERT": {
+        "alias": [
+            "ViLBERT"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://github.com/facebookresearch/vilbert-multi-task"
+    },
+    "XLM": {
+        "alias": [
+            "XLM"
+        ],
+        "variations": [
+        ],
+        "dep": "XLM",
+        "ref": "https://huggingface.co/transformers/v3.0.2/model_doc/xlm.html"
+    },
+    "Linformer": {
+        "alias": [
+            "Linformer"
+        ],
+        "variations": [
+        ],
+        "dep": "Linformer",
+        "ref": "https://arxiv.org/abs/2006.04768"
+    },
+    "kNN-LM": {
+        "alias": [
+            "kNN-LM"
+        ],
+        "variations": [
+        ],
+        "dep": "kNN-LM",
+        "ref": "https://github.com/urvashik/knnlm"
+    },
+    "kNN-MT": {
+        "alias": [
+            "kNN-MT"
+        ],
+        "variations": [
+        ],
+        "dep": "kNN-LM",
+        "ref": "https://github.com/urvashik/knnlm"
+    },
+    "REALM": {
+        "alias": [
+            "REALM"
+        ],
+        "variations": [
+        ],
+        "dep": "REALM",
+        "ref": "https://huggingface.co/docs/transformers/en/model_doc/realm"
+    },
+    "RETRO": {
+        "alias": [
+            "RETRO"
+        ],
+        "variations": [
+        ],
+        "dep": "RETRO",
+        "ref": "https://arxiv.org/abs/2112.04426"
+    },
+    "GraphCodeBERT": {
+        "alias": [
+            "GraphCodeBERT"
+        ],
+        "variations": [
+        ],
+        "dep": "GraphCodeBERT",
+        "ref": "https://arxiv.org/abs/2009.08366"
+    },
+    "Sentence-BERT": {
+        "alias": [
+            "Sentence-BERT",
+            "SBERT"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://arxiv.org/abs/1908.10084"
+    },
+    "RNN": {
+        "alias": [
+            "RNN",
+            "Recurrent Neural Network"
+        ],
+        "variations": [
+        ],
+        "dep": "RNN",
+        "ref": ""
+    },
+    "HyperCLOVA": {
+        "alias": [
+            "HyperCLOVA"
+        ],
+        "variations": [
+        ],
+        "dep": "GPT-3",
+        "ref": "https://arxiv.org/abs/2109.04650"
+    },
+    "CodeGen": {
+        "alias": [
+            "CodeGen"
+        ],
+        "variations": [
+        ],
+        "dep": "CodeGen",
+        "ref": "https://huggingface.co/docs/transformers/en/model_doc/codegen"
+    },
+    "Dolly": {
+        "alias": [
+            "Dolly",
+            "dolly"
+        ],
+        "variations": [
+            "Dolly-v2",
+            "Dolly v2",
+            "dolly-v2-7b",
+            "dolly-v2-3b"
+        ],
+        "dep": "Pythia",
+        "ref": "https://huggingface.co/databricks/dolly-v2-12b"
+    },
+    "Pythia": {
+        "alias": [
+            "Pythia",
+            "pythia"
+        ],
+        "variations": [
+            "pythia-1.4b",
+            "pythia-12b"
+        ],
+        "dep": "Pythia",
+        "ref": "https://github.com/EleutherAI/pythia?tab=readme-ov-file#models"
+    },
+    "LaMDA": {
+        "alias": [
+            "LaMDA"
+        ],
+        "variations": [
+            "LaMDA-PT"
+        ],
+        "dep": "LaMDA",
+        "ref": "https://arxiv.org/abs/2201.08239"
+    },
+    "FLAN": {
+        "alias": [
+            "FLAN",
+            "Flan"
+        ],
+        "variations": [
+        ],
+        "dep": "LaMDA",
+        "ref": "https://github.com/google-research/FLAN"
+    },
+    "BLIP-2": {
+        "alias": [
+            "BLIP-2",
+            "BLIP2"
+        ],
+        "variations": [
+        ],
+        "dep": "BLIP-2",
+        "ref": "https://huggingface.co/docs/transformers/v4.28.1/model_doc/blip-2"
+    },
+    "XLNet": {
+        "alias": [
+            "XLNet",
+            "XLNET",
+            "XLnet"
+        ],
+        "variations": [
+        ],
+        "dep": "XLNet",
+        "ref": "https://huggingface.co/docs/transformers/model_doc/xlnet"
+    },
+    "GPT": {
+        "alias": [
+            "GPT"
+        ],
+        "variations": [
+        ],
+        "dep": "GPT",
+        "ref": ""
+    },
+    "ELMo": {
+        "alias": [
+            "ELMo"
+        ],
+        "variations": [
+        ],
+        "dep": "LSTM",
+        "ref": "https://aclanthology.org/N18-1202/"
+    },
+    "BioBERT": {
+        "alias": [
+            "BioBERT"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://arxiv.org/abs/1901.08746"
+    },
+    "DialoGPT": {
+        "alias": [
+            "DialoGPT"
+        ],
+        "variations": [
+        ],
+        "dep": "GPT-2",
+        "ref": "https://huggingface.co/docs/transformers/model_doc/dialogpt"
+    },
+    "RemBERT": {
+        "alias": [
+            "RemBERT"
+        ],
+        "variations": [
+        ],
+        "dep": "mBERT",
+        "ref": "https://huggingface.co/docs/transformers/model_doc/rembert"
+    },
+    "PaLM 2": {
+        "alias": [
+            "PaLM 2",
+            "PaLM-2"
+        ],
+        "variations": [
+            "Med-PaLM 2"
+        ],
+        "dep": "PaLM",
+        "ref": "https://blog.google/technology/ai/google-palm-2-ai-large-language-model/"
+    },
+    "DistilBERT": {
+        "alias": [
+            "DistilBERT",
+            "DistillBERT"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://huggingface.co/docs/transformers/model_doc/distilbert"
+    },
+    "SciBERT": {
+        "alias": [
+            "SciBERT"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://github.com/allenai/scibert"
+    },
+    "ClinicalBERT": {
+        "alias": [
+            "ClinicalBERT"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://huggingface.co/medicalai/ClinicalBERT"
+    },
+    "M2M100": {
+        "alias": [
+            "M2M100",
+            "m2m-100",
+            "M2M-100"
+        ],
+        "variations": [
+        ],
+        "dep": "M2M100",
+        "ref": "https://huggingface.co/docs/transformers/model_doc/m2m_100"
+    },
+    "GloVe": {
+        "alias": [
+            "GloVe",
+            "Glove"
+        ],
+        "variations": [
+        ],
+        "dep": "GloVe",
+        "ref": "https://aclanthology.org/D14-1162/"
+    },
+    "LASER": {
+        "alias": [
+            "LASER"
+        ],
+        "variations": [
+        ],
+        "dep": "LSTM",
+        "ref": "https://engineering.fb.com/2019/01/22/ai-research/laser-multilingual-sentence-embeddings/"
+    },
+    "word2vec": {
+        "alias": [
+            "word2vec",
+            "Word2Vec",
+            "Word2vec",
+            "Skip-gram",
+            "Skip-Gram",
+            "CBOW"
+        ],
+        "variations": [
+        ],
+        "dep": "word2vec",
+        "ref": ""
+    },
+    "fastText": {
+        "alias": [
+            "fastText",
+            "FastText"
+        ],
+        "variations": [
+        ],
+        "dep": "word2vec",
+        "ref": "https://github.com/facebookresearch/fastText"
+    },
+    "LaBSE": {
+        "alias": [
+            "LaBSE"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://github.com/bojone/labse"
+    },
+    "CNN": {
+        "alias": [
+            "CNN"
+        ],
+        "variations": [
+        ],
+        "dep": "CNN",
+        "ref": ""
+    },
+    "wav2vec": {
+        "alias": [
+            "wav2vec"
+        ],
+        "variations": [
+            "wav2vec 2.0"
+        ],
+        "dep": "wav2vec",
+        "ref": ""
+    },
+    "UNITER": {
+        "alias": [
+            "UNITER"
+        ],
+        "variations": [
+        ],
+        "dep": "UNITER",
+        "ref": "https://github.com/ChenRocks/UNITER"
+    },
+    "WizardLM": {
+        "alias": [
+            "WizardLM"
+        ],
+        "variations": [
+        ],
+        "dep": "LLaMA",
+        "ref": "https://arxiv.org/abs/2304.12244"
+    },
+    "MASS": {
+        "alias": [
+            "MASS"
+        ],
+        "variations": [
+        ],
+        "dep": "MASS",
+        "ref": "https://github.com/microsoft/MASS"
+    },
+    "MT-DNN": {
+        "alias": [
+            "MT-DNN"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://github.com/namisan/mt-dnn"
+    },
+    "BlenderBot": {
+        "alias": [
+            "BlenderBot",
+            "Blenderbot"
+        ],
+        "variations": [
+        ],
+        "dep": "OPT",
+        "ref": "https://ai.meta.com/blog/blenderbot-3-a-175b-parameter-publicly-available-chatbot-that-improves-its-skills-and-safety-over-time/"
+    },
+    "OFA": {
+        "alias": [
+            "OFA"
+        ],
+        "variations": [
+        ],
+        "dep": "BART",
+        "ref": "https://arxiv.org/abs/2202.03052"
+    },
+    "CMLM": {
+        "alias": [
+            "CMLM"
+        ],
+        "variations": [
+        ],
+        "dep": "CMLM",
+        "ref": "https://aclanthology.org/2021.emnlp-main.502/"
+    },
+    "HRED": {
+        "alias": [
+            "HRED"
+        ],
+        "variations": [
+        ],
+        "dep": "RNN",
+        "ref": "https://arxiv.org/abs/1507.02221"
+    },
+    "ERNIE": {
+        "alias": [
+            "ERNIE"
+        ],
+        "variations": [
+            "ERNIE 1.0"
+        ],
+        "dep": "ERNIE",
+        "ref": "https://arxiv.org/abs/1905.07129"
+    },
+    "ConveRT": {
+        "alias": [
+            "ConveRT"
+        ],
+        "variations": [
+        ],
+        "dep": "ConveRT",
+        "ref": "https://aclanthology.org/2020.findings-emnlp.196"
+    },
+    "Diffusion-LM": {
+        "alias": [
+            "Diffusion-LM"
+        ],
+        "variations": [
+        ],
+        "dep": "Diffusion-LM",
+        "ref": "https://arxiv.org/abs/2205.14217"
+    },
+    "MiniLM": {
+        "alias": [
+            "MiniLM"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://arxiv.org/abs/2002.10957"
+    },
+    "Falcon": {
+        "alias": [
+            "Falcon"
+        ],
+        "variations": [
+            "Falcon40B",
+            "Falcon-40B"
+        ],
+        "dep": "Falcon",
+        "ref": "https://arxiv.org/abs/2311.16867"
+    },
+    "Galactica": {
+        "alias": [
+            "Galactica"
+        ],
+        "variations": [
+        ],
+        "dep": "Galactica",
+        "ref": "https://arxiv.org/abs/2211.09085"
+    },
+    "PPLM": {
+        "alias": [
+            "PPLM"
+        ],
+        "variations": [
+            "PPLM-BoW"
+        ],
+        "dep": "PPLM",
+        "ref": "https://arxiv.org/abs/1912.02164"
+    },
+    "RuleTakers": {
+        "alias": [
+            "RuleTakers"
+        ],
+        "variations": [
+        ],
+        "dep": "RoBERTa",
+        "ref": "https://arxiv.org/abs/2002.05867"
+    },
+    "Claude": {
+        "alias": [
+            "Claude"
+        ],
+        "variations": [
+        ],
+        "dep": "Claude",
+        "ref": "https://docs.anthropic.com/en/docs/models-overview"
+    },
+    "Tk-Instruct": {
+        "alias": [
+            "Tk-Instruct",
+            "Tk-instruct"
+        ],
+        "variations": [
+        ],
+        "dep": "T5",
+        "ref": "https://github.com/yizhongw/Tk-Instruct"
+    },
+    "LayoutLM": {
+        "alias": [
+            "LayoutLM"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://arxiv.org/abs/1912.13318"
+    },
+    "PanGu-𝛼": {
+        "alias": [
+            "PanGu-𝛼"
+        ],
+        "variations": [
+        ],
+        "dep": "PanGu-𝛼",
+        "ref": "https://arxiv.org/abs/2104.12369"
+    },
+    "GROVER": {
+        "alias": [
+            "GROVER",
+            "Grover"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://huggingface.co/PoetschLab/GROVER"
+    },
+    "CTRL": {
+        "alias": [
+            "CTRL"
+        ],
+        "variations": [
+        ],
+        "dep": "CTRL",
+        "ref": "https://arxiv.org/abs/1909.05858"
+    },
+    "EntityNLM": {
+        "alias": [
+            "EntityNLM"
+        ],
+        "variations": [
+        ],
+        "dep": "EntityNLM",
+        "ref": "https://aclanthology.org/D17-1195/"
+    },
+    "ST-DNN": {
+        "alias": [
+            "ST-DNN"
+        ],
+        "variations": [
+        ],
+        "dep": "CNN",
+        "ref": "https://arxiv.org/abs/2102.08497"
+    },
+    "SpERT": {
+        "alias": [
+            "SpERT"
+        ],
+        "variations": [
+        ],
+        "dep": "BERT",
+        "ref": "https://arxiv.org/abs/1909.07755"
+    }
+}
